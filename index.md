@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Home | Anujan Ganeshalingam"
 ---
 
-I'm glad you are here. I plan to talk about ...
+A website about me.
