@@ -1,5 +1,5 @@
 ---
-title: "Home | Anujan Ganeshalingam"
+title: "Home"
 ---
 
 A website about me.
