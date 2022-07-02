@@ -9,4 +9,4 @@ Things to be added:
   - Details about project
     - 3rd year - Time Reflection and Refraction
     - 4th year - Noise in Artificial Spin Ices
-    - KCL project
+    - KCL project - "title"
